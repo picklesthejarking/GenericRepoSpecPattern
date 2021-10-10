@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Anthony Medhurst</Authors>
+    <Company />
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
